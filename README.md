@@ -5,5 +5,5 @@
 [https://blog.vicc.jp/entry/ghdef-review-4](https://blog.vicc.jp/entry/ghdef-review-4)  
 
 
-vicc blog のGrasshopper 反省会シリーズの記事はこちらからどうぞ。  
+vicc blog の Grasshopper 反省会シリーズの記事はこちらからどうぞ。  
 [https://blog.vicc.jp/archive/category/Grasshopper%E5%8F%8D%E7%9C%81%E4%BC%9A](https://blog.vicc.jp/archive/category/Grasshopper%E5%8F%8D%E7%9C%81%E4%BC%9A)  
